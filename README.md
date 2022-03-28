@@ -7,6 +7,7 @@ This react native mobile app showcases a simple counter componeent as well as a 
     - `yarn global add expo-cli`
 
 ## Setup
-1. Create a .env file and get and API from [Open Weather Map](https://openweathermap.org/)
-2. yarn install
-3. yarn start
+1. Create a `.env` file similar to the `.env.sample` file.
+2. Get an API Key from [Open Weather Map](https://openweathermap.org/)
+3. yarn install
+4. yarn start
