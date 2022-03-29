@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import Counter from './components/Counter';
 import WeatherOverview from './components/WeatherOverview';
+import ImagePickerExample from './components/ImagePickerExample';
 
 export default function App() {
   return (
@@ -11,6 +12,8 @@ export default function App() {
       <Counter />
 
       <WeatherOverview />
+
+      <ImagePickerExample />
     </View>
   );
 }
